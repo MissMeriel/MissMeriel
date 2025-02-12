@@ -25,7 +25,7 @@ My work revolves arround the robustification and validation of robotic systems t
 
 :link:&nbsp;
 [[Personal website]](https://missmeriel.github.io/) - 
-[[LinkedIn]](https://www.linkedin.com/in/meriel-von-stein-b7318060/)
+[[LinkedIn]](https://www.linkedin.com/in/meriel-von-stein/)
 <!--
 :mortar_board: &nbsp; **Education**
 * **Master of Science in Computer Science** at *University of California, Davis, USA* (In Progress)
