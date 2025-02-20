@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## 👋  &nbsp; Hey there, I'm Meriel
 
 I'm a PhD candidate in Computer Science at the University of Virginia advised by Dr. Sebastian Elbaum. 
-My work revolves arround the robustification and validation of robotic systems that rely on machine-learned components for safety-critical operations.
+My work revolves around the robustification and validation of robotic systems that rely on machine-learned components for safety-critical operations.
 
 :brain: &nbsp; **Expertise**: Machine Learning, Robotics, Python, SE4ML
 
